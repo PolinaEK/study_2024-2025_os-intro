@@ -1,12 +1,12 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Лабороторная работа №1
+title: Лабороторная работа № 1
 author:
   - Кичигина Полина Евгеньевна
 institute:
   - Российский университет дружбы народов, Москва, Россия
-date: 05 марта 2025
+date: 04 марта 2025
 
 ## i18n babel
 babel-lang: russian
